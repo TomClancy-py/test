@@ -1,21 +1,21 @@
 {
     "version": "1.0.0",
-    "name": "wow",
-    "app-name": "wow",
-    "package-name": "static_app",
+    "name": "PesOnlineHelper",
+    "app-name": "PesOnlineHelper",
+    "package-name": "com.guddu.apps",
     "project-type": "static",
     "icon": "./assets/icon/icon.png",
     "dist-path": "./dist",
     "permission": [
         "android.permission.INTERNET"
     ],
-    "description": "",
-    "author": "",
+    "description": "An app which helps you to join your online classes more easily.",
+    "author": "Guddu",
     "license": "ISC",
     "scripts": {
         "build": "androidjs build"
     },
-    "project-name": "wow",
+    "project-name": "PesOnlineHelper",
     "theme": {
         "fullScreen": true
     }
